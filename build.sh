@@ -1,2 +1,3 @@
+#!/bin/bash
 go build -o arts .
-sudo mv arts /usr/local/bin/
+sudo cp arts /usr/local/bin/arts
