@@ -37,7 +37,7 @@ The rules are:
 ---
 
 ** Modification Threshold **
-Set by: [Creator Name]
-Threshold: [30-150] lines
-Date set: [date]
+Set by: [Dronables]
+Threshold: [30] lines
+Date set: [2026-04-02]
 Cannot be changed without creator approval.
